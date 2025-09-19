@@ -1,0 +1,23 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "CVar Driven Logging",
+	"Description": "Let CVars drive C++ logging categories",
+	"Category": "Utilities",
+	"CreatedBy": "Tonetfal",
+	"CreatedByURL": "https://github.com/Tonetfal",
+	"DocsURL": "https://github.com/Tonetfal/CVarDrivenLogging",
+	"MarketplaceURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "CVarDrivenLogging",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
