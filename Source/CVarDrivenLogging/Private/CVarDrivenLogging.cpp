@@ -1,3 +1,3 @@
-﻿// Copyright Frostveil Studios. All Rights Reserved.
+﻿// Author: Antonio Sidenko (Tonetfal), September 2025
 
 IMPLEMENT_MODULE(FDefaultModuleImpl, CVarDrivenLogging)
